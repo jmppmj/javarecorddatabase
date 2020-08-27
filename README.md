@@ -1,6 +1,6 @@
 <b>Java Record Database</b>
 
-<i>Language: Java V8</i>
+<i>Language: Java</i>
 <ul style="list-style-type:circle">
 <li>Creates a database of person records.</li>
 <li>Record data is stored in a binary file.</li>
